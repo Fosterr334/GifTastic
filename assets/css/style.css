@@ -1,0 +1,26 @@
+body{
+    background-color : teal; 
+}
+button{
+    background-color : ivory;
+    border           : none;
+    color            : teal;
+    padding          : 10px 20px;
+    text-align       : center;
+    text-decoration  : none;
+    display          : inline-block;
+    font-size        : 16px;
+    margin           : 4px 2px;
+    cursor           : pointer; 
+    border-radius    : 8px; 
+    border           : 1px solid black;
+
+}
+img{
+    float            : left;
+    margin           : 2%;
+    border           : 2px solid black;
+}
+#animalInput{
+    border           : 2px solid black;
+}
